@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Python and some algorithms<br>🎯 Goals: Work as a Backend Node developer<br>🎲 Fun fact: i love Nvim</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Python and some algorithms<br>🎯 Goals: Build my SAAS app<br>🎲 Fun fact: i love Nvim</p>
 
 ###
 
